@@ -2,6 +2,10 @@ html {
   font-size: 13px;
 }
 
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
 .card:hover {
   -webkit-box-shadow: 0 0 10px #0c0c0c3b;
           box-shadow: 0 0 10px #0c0c0c3b;
